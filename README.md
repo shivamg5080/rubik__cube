@@ -1,9 +1,7 @@
 # Rubik's Cube Solver - using Korf's IDA* Algorithm
 https://www.cs.princeton.edu/courses/archive/fall06/cos402/papers/korfrubik.pdf (Korf's Research Paper)
 
-Modelled a virtual Rubik's Cube (3 x 3) in 3 different
-
-models/classes (3D Array Model, 1D Array Model, BitBoard Model)
+Modelled a virtual Rubik's Cube (3 x 3) in 3 different models/classes (3D Array Model, 1D Array Model, BitBoard Model)
 
 • Implemented OPPS concepts like Classes and Objects, Virtual Functions and Abstract Classes, Inheritance, Operator Overloading
 
