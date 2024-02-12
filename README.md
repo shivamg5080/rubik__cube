@@ -7,4 +7,4 @@ Modelled a virtual Rubik's Cube (3 x 3) in 3 different models/classes (3D Array 
 
 • Achieved a solving time of under 3 seconds for a Rubik's Cube jumbled 8 times, using BFS, DFS, and IDDFS algorithms
 
-• Implemented the Korf's IDA* Algorithm, achieving a solving time under 10 seconds for a Rubik's Cube jumbled 13 times
+• Implemented the Korf's IDA* Algorithm, achieving a solving time under 10 seconds for a Rubik's Cube jumbled 13 times.
